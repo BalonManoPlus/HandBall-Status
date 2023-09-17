@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HandBall-Status/static/css/main.941fd28e.css",
-    "main.js": "/HandBall-Status/static/js/main.091d3d3c.js",
+    "main.js": "/HandBall-Status/static/js/main.abe66630.js",
     "static/js/787.d1d4a2c2.chunk.js": "/HandBall-Status/static/js/787.d1d4a2c2.chunk.js",
     "static/media/icon.png": "/HandBall-Status/static/media/icon.f09c4a7ace6cb704b142.png",
     "index.html": "/HandBall-Status/index.html",
     "main.941fd28e.css.map": "/HandBall-Status/static/css/main.941fd28e.css.map",
-    "main.091d3d3c.js.map": "/HandBall-Status/static/js/main.091d3d3c.js.map",
+    "main.abe66630.js.map": "/HandBall-Status/static/js/main.abe66630.js.map",
     "787.d1d4a2c2.chunk.js.map": "/HandBall-Status/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.941fd28e.css",
-    "static/js/main.091d3d3c.js"
+    "static/js/main.abe66630.js"
   ]
 }
